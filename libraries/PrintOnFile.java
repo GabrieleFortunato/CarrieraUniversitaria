@@ -13,7 +13,7 @@ import java.util.Iterator;
 public class PrintOnFile {
 	
 	private static void stampaEsame(PrintStream output, Esame e){
-		output.println("DATA: "+e.data());
+		output.println("DATA: "+e.dataStringa());
 		output.println("INSEGNAMENTO: "+e.getNome());
 		output.println("VOTO: "+e.getVoto());
 		output.println("CFU: "+e.getCfu());

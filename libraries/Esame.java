@@ -1,5 +1,6 @@
 package libraries;
 
+import java.io.Serializable;
 import java.util.Calendar;
 import java.util.GregorianCalendar;
 
@@ -8,7 +9,8 @@ import java.util.GregorianCalendar;
  * @author Gabriele Fortunato
  *
  */
-public class Esame implements Comparable<Esame>{
+@SuppressWarnings("serial")
+public class Esame implements Comparable<Esame>,Serializable{
 	
 	GregorianCalendar data;
 	String nome;
@@ -37,6 +39,14 @@ public class Esame implements Comparable<Esame>{
 	}
 
 	@Override
+	public int hashCode() {
+		final int prime = 31;
+		int result = 1;
+		result = prime * result + ((nome == null) ? 0 : nome.hashCode());
+		return result;
+	}
+
+	@Override
 	public boolean equals(Object obj) {
 		if (this == obj)
 			return true;
@@ -53,7 +63,7 @@ public class Esame implements Comparable<Esame>{
 		return true;
 	}
 
-	public String data(){
+	public String dataStringa(){
 		int giorno = data.get(Calendar.DATE);
 		int mese = data.get(Calendar.MONTH)+1;
 		int anno = data.get(Calendar.YEAR);
