@@ -17,6 +17,13 @@ public class Esame implements Comparable<Esame>,Serializable{
 	int voto;
 	int cfu;
 	
+	/**
+	 * Metodo costruttore
+	 * @param data
+	 * @param nome
+	 * @param voto
+	 * @param cfu
+	 */
 	public Esame(GregorianCalendar data, String nome, int voto, int cfu) {
 		this.data = data;
 		this.nome = nome;

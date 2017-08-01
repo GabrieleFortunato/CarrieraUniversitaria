@@ -105,7 +105,8 @@ public class Database {
 				GregorianCalendar data = new GregorianCalendar(anno,mese-1,giorno);
 				String nome = res.getString("denominazione");
 				int cfu = res.getInt("cfu");
-				list.add(new Idoneità(data,nome,cfu));Thread.sleep(500);
+				list.add(new Idoneità(data,nome,cfu));
+				Thread.sleep(500);
 			}
 			conn.close();
 		} catch (Exception e) {
