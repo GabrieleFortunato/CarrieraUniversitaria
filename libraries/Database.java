@@ -19,7 +19,6 @@ public class Database {
 	
 	static String url = "jdbc:mysql://localhost:3306/";
 	static String dbName = "esami";
-	static String dbNameLogin = "login";
 	static String driver = "com.mysql.jdbc.Driver";
 	static String userName = "root"; 
 	static String password = "qrnq946";

@@ -1,0 +1,85 @@
+
+ESAMI SUPERATI
+
+DATA: 19/12/2014
+INSEGNAMENTO: Analisi matematica
+VOTO: 18
+CFU: 9
+=================================================================================
+DATA: 19/12/2014
+INSEGNAMENTO: Fisica applicata all'informatica
+VOTO: 20
+CFU: 6
+=================================================================================
+DATA: 27/2/2015
+INSEGNAMENTO: Programmazione
+VOTO: 27
+CFU: 9
+=================================================================================
+DATA: 26/6/2015
+INSEGNAMENTO: Laboratorio di informatica
+VOTO: 26
+CFU: 9
+=================================================================================
+DATA: 8/9/2015
+INSEGNAMENTO: Architettura degli elaboratori e dei sistemi operativi
+VOTO: 19
+CFU: 9
+=================================================================================
+DATA: 16/11/2015
+INSEGNAMENTO: Matematica discreta
+VOTO: 18
+CFU: 9
+=================================================================================
+DATA: 8/6/2016
+INSEGNAMENTO: Statistica per l'ingegneria del software
+VOTO: 25
+CFU: 6
+=================================================================================
+DATA: 27/7/2016
+INSEGNAMENTO: Eonomia e gestione d'impresa
+VOTO: 27
+CFU: 6
+=================================================================================
+DATA: 18/11/2016
+INSEGNAMENTO: Linguaggi di programmazione
+VOTO: 21
+CFU: 9
+=================================================================================
+DATA: 19/1/2017
+INSEGNAMENTO: Programmazione 2
+VOTO: 27
+CFU: 9
+=================================================================================
+DATA: 9/2/2017
+INSEGNAMENTO: Progettazione di basi di dati
+VOTO: 20
+CFU: 9
+=================================================================================
+DATA: 19/4/2017
+INSEGNAMENTO: Calcolo numerico
+VOTO: 18
+CFU: 6
+=================================================================================
+DATA: 27/6/2017
+INSEGNAMENTO: Modelli e metodi per la qualità del software
+VOTO: 28
+CFU: 9
+=================================================================================
+DATA: 28/6/2017
+INSEGNAMENTO: Sistemi di elaborazione per l'automazione d'ufficio
+VOTO: 28
+CFU: 6
+=================================================================================
+
+IDONEITA' OTTENUTE
+
+DATA: 19/12/2014
+INSEGNAMENTO: Lingua inglese
+CFU: 6
+=================================================================================
+
+
+
+Media aritmetica: 23.0
+Media ponderale: 22.91
